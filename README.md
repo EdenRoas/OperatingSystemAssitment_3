@@ -25,7 +25,7 @@
   https://www.ibm.com/docs/en/zos/2.4.0?topic=programs-c-socket-udp-server
 * MMAP - https://man7.org/linux/man-pages/man2/mmap.2.html
 * PIPE - https://www.educba.com/clock_gettime/
-* shared memory between threads -
+* shared memory between threads -  https://stackoverflow.com/questions/13741243/passing-data-between-thread-using-c-issue
 
 * USD - Stream & Dgram socket- https://www.ibm.com/docs/en/ztpf/1.1.0.15?topic=considerations-unix-domain-sockets
 
